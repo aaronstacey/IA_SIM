@@ -1,0 +1,1 @@
+A forest fire management simulator built with Python using SIMPY to handle events.
